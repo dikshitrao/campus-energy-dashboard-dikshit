@@ -108,6 +108,5 @@ Total campus consumption: 90.1 kWh
 
 Highest-consuming building: BuildingA
 
-## Dashboard Visualization
 
-![Campus Energy Dashboard](output/dashboard.png)
+
